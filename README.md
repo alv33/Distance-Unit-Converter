@@ -6,3 +6,5 @@ Input and Output Units: Users can input a distance value (e.g., in meters) and s
 The app dynamically updates the converted result in real-time.
 Clean and Minimalistic UI: We’ve prioritized simplicity and ease of use. The straightforward design ensures that users can quickly perform conversions without unnecessary distractions.
 Flexible Conversion Factors: The app allows customization of conversion factors. Whether you’re dealing with metric or imperial units, you can adjust the settings to match your specific needs.
+
+The code was done by using Kotlin in Android studio. I have tried to put comments on my codes as well. It should work. And the codes were simple as well. This is my first Kotlin project. It's fun.
